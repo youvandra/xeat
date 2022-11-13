@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/concert/selected-ticket/[id]/[ticketId]": "pages/concert/selected-ticket/[id]/[ticketId].js",
+  "/": "pages/index.js"
+}
