@@ -27,7 +27,7 @@ interface Props {
 
 const myEditionDropContractAddress = "0x5dA2C4B41C467a17f91Fa96B90E912FF35253d18";
 
-const activeChainId = ChainId.Goerli;
+const activeChainId = ChainId.Mumbai;
 
 const SelectedTicket = () => {
     const [pageId, setPageId] = React.useState<string | string[] | undefined>('');
