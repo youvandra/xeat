@@ -2,7 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/concert/[id]/details": "pages/concert/[id]/details.js",
+  "/": "pages/index.js",
   "/concert": "pages/concert.js",
+  "/concert/[id]/details": "pages/concert/[id]/details.js",
   "/concert/selected-ticket/[id]/[ticketId]": "pages/concert/selected-ticket/[id]/[ticketId].js"
 }
